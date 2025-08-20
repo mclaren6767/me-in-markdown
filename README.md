@@ -8,4 +8,4 @@
 ## My Playlist
 [This is my spotify playlist!](https://open.spotify.com/playlist/0lUwYyRxU7q31itQ61tOtA?si=wzLG8KtbS06Ug_tjvauL0w)
 ## College / Moodboard
-[this is an image of my collage!]{https://www.canva.com/design/DAGwiqNc4Ds/bO_3XgwO_rRfgfYBls8ZOA/edit?utm_content=DAGwiqNc4Ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton}
+[this is an image of my collage!](moodboard.png)
