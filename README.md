@@ -4,4 +4,4 @@ My name is Kiana and I am in tenth grade. My favorite movie is taken because I l
 ## My Playlist
 [This is my spotify playlist!](https://open.spotify.com/playlist/0lUwYyRxU7q31itQ61tOtA?si=wzLG8KtbS06Ug_tjvauL0w)
 ## College / Moodboard
-[this is an image of my collage!]{collage.png}
+[this is an image of my collage!]{https://www.canva.com/design/DAGwiqNc4Ds/bO_3XgwO_rRfgfYBls8ZOA/edit?utm_content=DAGwiqNc4Ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton}
